@@ -15,7 +15,7 @@ gradient (Marussi) tensor. See details at [Leouieda's Github: tesseroids](https:
 
 `SConstruct` and `src` are the codes for modeling the gravitational curvatures of tesseroids, in corporation with the *[Tesseroids](http://tesseroids.leouieda.com/)* software.
 
-`Experiments` is used to reproduce the results presented in *Deng and Shen (2018) PAAG*. 
+`Experiments` is used to reproduce the results presented in *Deng and Shen (2018)*. 
 
 ## License
 
