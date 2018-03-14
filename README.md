@@ -34,16 +34,16 @@ please **cite** the papers in your publications:
 
 ## Installing
 
-1. Firstly, to install the **Tesseroids** software. see help at [leouieda/tesseroids: Forward modeling of gravity fields in spherical coordinates](https://github.com/leouieda/tesseroids);
+1. Install the **Tesseroids** software. see help at [leouieda/tesseroids: Forward modeling of gravity fields in spherical coordinates](https://github.com/leouieda/tesseroids);
 
-2. To download the codes at [xiaoledeng/Gravitational\_Curvatures\_of\_Tesseroids](https://github.com/xiaoledeng/Gravitational_Curvatures_of_Tesseroids);
+2. Download the codes at [xiaoledeng/Gravitational\_Curvatures\_of\_Tesseroids](https://github.com/xiaoledeng/Gravitational_Curvatures_of_Tesseroids);
 
-3. To replace the `SConstruct` and put the codes in `src` file at right place, and compile with 
+3. Replace the `SConstruct` and put the codes in `src` file at right place, and compile with 
 
 	    # scons -c
 	    # scons
 
-4. To test the success of installing by using:
+4. Test the success of installing by using:
 
 		$ tessgzzz -h
 		Usage: tessgzzz MODELFILE [OPTIONS]
