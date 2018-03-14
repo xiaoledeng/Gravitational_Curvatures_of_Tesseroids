@@ -1,7 +1,7 @@
 ## Gravitational\_Curvatures\_of\_Tesseroids
 
 [![BSD license](http://img.shields.io/badge/license-BSD-lightgrey.svg?style=flat)](https://github.com/xiaoledeng/Gravitational_Curvatures_of_Tesseroids/blob/master/LICENSE)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.582366.svg)](http://dx.doi.org/10.5281/zenodo.582366)
+[![DOI](https://zenodo.org/badge/118716751.svg)](https://zenodo.org/badge/latestdoi/118716751)
 
 Developed by [Xiao-Le Deng](https://github.com/xiaoledeng) in cooperation with Wen-Bin Shen.
 
