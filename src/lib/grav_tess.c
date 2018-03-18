@@ -14,7 +14,7 @@ Uieda L, Barbosa V, Braitenberg C (2016) Tesseroids: forward-modeling gravitatio
 coordinates. Geophysics 81:F41–F48. https://doi.org/10.1190/geo2015-0204.1
 
 Deng Xiao-Le, Shen Wen-Bin. (2018). Topographic effects up to Gravitational Curvatures 
-of tesseroids: A case study especially in China region. Pure and Applied Geophysics with revision.
+of tesseroids: A case study in China region.
 */
 
 
