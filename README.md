@@ -13,7 +13,7 @@ Based on the *[Tesseroids](http://tesseroids.leouieda.com/)* software, We offer 
 
 `SConstruct` and `src` are the codes for modeling the gravitational curvatures of tesseroids, in corporation with the *[Tesseroids](http://tesseroids.leouieda.com/)* software.
 
-`Experiments` is used to reproduce the results presented in *Deng and Shen (2019)*. 
+`Experiments` is used to reproduce the results presented in [*Deng and Shen (2019)*](http://dx.doi.org/10.1007/s11200-018-0772-4). 
 
 ## License
 
