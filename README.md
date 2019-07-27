@@ -5,11 +5,9 @@
 
 Developed by [Xiao-Le Deng](http://xiaoledeng.github.io/) in cooperation with [Wen-Bin Shen](http://wbshen.users.sgg.whu.edu.cn/).
 
-Based on the *[Tesseroids](http://tesseroids.leouieda.com/)* software, We offer the codes for modeling **Gravitational Curvatures (GC)** of tesseroids, whih are third order derivatives of the gravitational potential (GP).
+Based on the *[Tesseroids](http://tesseroids.leouieda.com/)* software, We offer the codes for modeling **Gravitational Curvatures (GC)** of tesseroids, which are third order derivatives of the gravitational potential (GP).
 
->*Tesseroids* is a collection of **command-line tools**
-for modeling the gravitational potential, acceleration, and
-gradient (Marussi) tensor. See details at [Leouieda's Github: tesseroids](https://github.com/leouieda/tesseroids).
+>*Tesseroids* is a collection of **command-line tools** for modeling the gravitational potential, acceleration, and gradient (Marussi) tensor. See details at [Leouieda's Github: tesseroids](https://github.com/leouieda/tesseroids).
 
 ## Description
 
