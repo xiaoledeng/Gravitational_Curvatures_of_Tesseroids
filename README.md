@@ -26,7 +26,7 @@ If you use these codes in your research, please **cite** the papers in your publ
 
 > Uieda, L., V. Barbosa, and C. Braitenberg (2016), Tesseroids: Forward-modeling gravitational fields in spherical coordinates, **GEOPHYSICS**, F41-F48, doi:[10.1190/geo2015-0204.1](http://dx.doi.org/10.1190/geo2015-0204.1).
 > 
-> Deng, X.L., Shen, W.B (2019), Topographic effects up to Gravitational Curvatures of tesseroids: A case study in China region,  **Studia Geophysica et Geodaetica**, doi:[10.1007/s11200-018-0772-4](http://dx.doi.org/10.1007/s11200-018-0772-4).
+> Deng, X.L., Shen, W.B (2019), Topographic effects up to Gravitational Curvatures of tesseroids: A case study in China,  **Studia Geophysica et Geodaetica**, doi:[10.1007/s11200-018-0772-4](http://dx.doi.org/10.1007/s11200-018-0772-4).
 
 
 ## Installing
