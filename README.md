@@ -37,8 +37,8 @@ If you use these codes in your research, please **cite** the papers in your publ
 
 3. Replace the `SConstruct` and put the codes in `src` file at right place, and compile with 
 
-	    # scons -c
-	    # scons
+	    $ scons -c
+	    $ scons
 
 4. Test the success of installing by using:
 
