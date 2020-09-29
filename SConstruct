@@ -2,6 +2,7 @@
 # No.1 Date : 2017/01/05
 # Mo.2 Date : 2017/04/17
 # No.3 Date : 2018/01/24
+# No.4 Date : 2020/09/29 revised for python3
 
 # Build the Tesseroids programs
 import sys
@@ -24,9 +25,9 @@ with open('src/lib/version.c', 'w') as f:
 # get the mode flag from the command line
 mode = ARGUMENTS.get('mode', 'default')
 if not (mode in ['default', 'check', 'bin32', 'win32']):
-   print "Error: unknown mode '%s'" % (mode)
+   print("Error: unknown mode '%s'" % mode)
    Exit(1)
-print '**** Compiling in ' + mode + ' mode...'
+print('**** Compiling in ' + mode + ' mode...')
 
 if sys.platform == 'win32':
     env = Environment(
