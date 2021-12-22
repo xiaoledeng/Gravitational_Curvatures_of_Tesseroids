@@ -31,7 +31,7 @@ If you use these codes in your research, please **cite** the papers in your publ
 
 ## Installing
 
-Installing the codes on Ubuntu, please see [Ubuntu安装Tesseroid1.2.1和Gravitational Curvatures of Tesseroids - Xiao-Le Deng](https://xiaoledeng.github.io/2020/09/29/ubuntu-install-tessoid-and-gc/) in Chinese.
+Installing these codes on Ubuntu, please see [Ubuntu installs Tesseroid1.2.1 and Gravitational Curvatures of Tesseroids](https://xiaoledeng.github.io/2020/09/29/ubuntu-install-tesseroid-and-gc/).
 
 1. Install the **Tesseroids** software. see help at [leouieda/tesseroids: Forward modeling of gravity fields in spherical coordinates](https://github.com/leouieda/tesseroids);
 
